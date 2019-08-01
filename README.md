@@ -42,6 +42,7 @@ Places to ask questions and find other community resources.
 - [Transitland](https://transit.land/) - A community-edited data service aggregating transit networks across metropolitan and rural areas around the world. Currently under development.
 - [TransitFeeds](http://transitfeeds.com/) - List of GTFS and GTFS-RT feeds. [Archives and validates](http://transitfeeds.com/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](http://transitfeeds.com/p/capital-metro/24/20151015) and [GTFS-RT](http://transitfeeds.com/p/capital-metro/495) through the browser. 
 - [TransLoc OpenAPI](https://www.mashape.com/transloc/openapi-1-2) - Real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States.
+- [GeoSampa](http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx) - Open data portal of São Paulo. Includes owner and tax-appraised value of all formal properties in the city.
 
 ### APIs
 
@@ -103,6 +104,8 @@ Experimental and production transit hardware.
 - [MIT COAXS](http://mittransportanalyst.github.io/) - Co-creative Planning of Transit Corridors using Accessibility-Based Stakeholder Engagement (shows route scenarios using [OpenTripPlanner Analyst](http://www.opentripplanner.org/analyst/)).
 - [TRAVIC Transit Visualization Client](http://tracker.geops.ch/) - Visualizes vehicles moving based on static GTFS data (and sometimes realtime data). Supports over 260 cities.  Github account for geOps organization is [here](https://github.com/geops).
 - [Muni, this moment](http://allthebuses.com/) - Realtime map of all the buses in San Francisco.
+- [MEDIDA SP](https://medidasp.com/) - Bernardo Loureiro's data journalism on urbanism in São Paulo.
+- [Morar Longe](http://quantoemorarlonge.escolhas.org/) - Interactive map of neighborhood characteristics in São Paulo.
 
 ### Resources
 
