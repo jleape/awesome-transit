@@ -106,6 +106,7 @@ Experimental and production transit hardware.
 - [Muni, this moment](http://allthebuses.com/) - Realtime map of all the buses in San Francisco.
 - [MEDIDA SP](https://medidasp.com/) - Bernardo Loureiro's data journalism on urbanism in São Paulo.
 - [Morar Longe](http://quantoemorarlonge.escolhas.org/) - Interactive map of neighborhood characteristics in São Paulo.
+- [Street Orientations](https://blog.mapbox.com/visualizing-street-orientations-on-an-interactive-map-1eefa6002afc) - An interactive take on Geoff Boeings analysis of street orientations as an indicator of urban entropy.
 
 ### Resources
 
